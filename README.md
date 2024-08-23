@@ -1,2 +1,2 @@
-# project-name
-A description
+Orion DOCX
+Java DOCX library
